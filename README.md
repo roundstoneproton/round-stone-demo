@@ -1,2 +1,2 @@
 # round-stone-demo
-A demo for Round Stone AI Companion project。
+A demo for Round Stone  Companion project。
